@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+missingno
+mlxtend
+spacy
+ipython
+tensorflow
+fuzzywuzzy
+chardet
+jupyter
