@@ -24,7 +24,7 @@ rm -f packages.microsoft.gpg
 sudo apt install apt-transport-https
 sudo apt update
 sudo apt install code
-core --install-extension ms-python.python --force
+code --install-extension ms-python.python --force
 code --install-extension ms-toolsai.jupyter --force
 echo "Visual Studio Code has been installed"
 
